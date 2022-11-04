@@ -138,5 +138,5 @@ button img{
     opacity: 0;
     visibility: hidden;
     transform: translateY(-30px);
-    transition: transform .5s;
+    transition: transform .3s;
 }
