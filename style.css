@@ -36,11 +36,16 @@ form{
     gap: 1.6rem;
 }
 
-.title, span{
+.title, p{
     font-weight: 700;
     font-size: 3.2rem;
     line-height: 4.0rem;
     color: #0C3440;
+}
+
+#statusImc{
+    font-size: 2rem;
+    margin-top: 2rem;
 }
 
 .input-wrapper label{
@@ -140,3 +145,4 @@ button img{
     transform: translateY(-30px);
     transition: transform .3s;
 }
+

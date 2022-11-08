@@ -1,6 +1,7 @@
 export const modal = {
     wrapper: document.querySelector('.modal-wrapper'),
-    message: document.querySelector('.modal span'),
+    messageValueImc: document.querySelector('.modal #resultImc'),
+    messageStatusImc: document.querySelector('.modal #statusImc'),
     buttonClose: document.querySelector('.close'),
     
     open(){
